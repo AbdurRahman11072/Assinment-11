@@ -9,6 +9,7 @@ This Website is build for travler who visit many place for them this website is 
 - Add review
 - Delete Booked room
 - Update Booked Room
+- Delete Booked room before 1 day of checking date
 
   client side Live Link:https://assinment-11-63419.firebaseapp.com
   Server Side Live Link: https://assinment-11-server-livid.vercel.app/roomdata
